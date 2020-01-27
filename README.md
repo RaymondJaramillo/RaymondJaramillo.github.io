@@ -1,5 +1,7 @@
-# Raymond Jaramillo
+## Introduction
+
+introduce myself what I'm doing now and what I aim to do.
 
 ## Projects
 
-* tbd
+* include links to one or more projects  {name of URL}(link to URL)
