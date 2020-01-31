@@ -4,5 +4,6 @@ My name is Raymond Jaramillo. I am Passionate about making things that excite me
 
 ## Projects
 
-* {Mystery Pattern}(https://github.com/RaymondJaramillo/mystery-pattern)
-* {Cards}(https://github.com/RaymondJaramillo/cards)
+* [Mystery Pattern](https://github.com/RaymondJaramillo/mystery-pattern)
+* [Cards](https://github.com/RaymondJaramillo/cards)
+* [NASA APOD](https://github.com/RaymondJaramillo/nasa-apod)
